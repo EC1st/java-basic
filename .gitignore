@@ -4,7 +4,8 @@
 ### Java ###
 # Compiled class file
 *.class
-
+.idea/
+*.iml
 # Log file
 *.log
 
@@ -61,7 +62,7 @@ hs_err_pid*
 # .idea/compiler.xml
 # .idea/jarRepositories.xml
 # .idea/modules.xml
-.idea/*.iml
+#.idea/*.iml
 # .idea/modules
 # *.iml
 # *.ipr
